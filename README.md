@@ -592,4 +592,3 @@ What Netty changes:
 
 - The client does not compress its batches yet.
 - The client still uses plain sockets. A Netty client would help if you run many bots at once.
- 
